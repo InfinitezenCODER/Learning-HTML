@@ -30,7 +30,7 @@ Author-InfinitezenCODER
 <img src="https://goyahills.com/wp-content/uploads/2025/03/Ruturaj-Gaikwad-min.jpg" alt="Ruturaj Gaikwad" height="100"/>
     <br>
     <b>Chennai Super Kings FAN,</b>
-    <B>MAHI & RUTU Fan </B>
+    <B><u> MAHI & RUTU Fan </u> </B>
     <br>
     <u>IPL 2026</u>
     <br>

@@ -27,5 +27,14 @@ Author-InfinitezenCODER
     <a href="https://www.facebook.com">FACEBOOK</a>
     <br>
     <a href="/Swift.html">Go to swift</a>
+    <br>
+     <a href="/Swift.html">Go to swift</a<img src="https://goyahills.com/wp-content/uploads/2025/03/Ruturaj-Gaikwad-min.jpg" alt="Ruturaj Gaikwad" height="100"/>
+    <br>
+    <b>Chennai Super Kings FAN,</b>
+    <B>MAHI & RUTU Fan </B>
+    <br>
+    <u>IPL 2026</u>
+    <br>
+    <i>Yellow ARMY</i>
 </body>
 </html>

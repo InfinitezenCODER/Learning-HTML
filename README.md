@@ -18,10 +18,11 @@ Author-InfinitezenCODER
     <h2>This is a subheading</h2>
     <h3> This is a smaller heading</h3>
     <h4> This is an even smaller heading</h4>
+    <h5> This is a tiny heading</h5>
     
     
     <p>     Sample Paragraph</p>
-    <a href="https://www.google.com">GOOGLE</a>
+    <a href="https://www.google.com/">GOOGLE</a>
     <br>
     <a href="https://www.facebook.com">FACEBOOK</a>
     <br>

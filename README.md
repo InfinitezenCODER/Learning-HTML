@@ -15,7 +15,7 @@ Author-InfinitezenCODER
 <body>
 <!--This is Paragraph-->
     <h1>This is a heading</h1>
-    <h2><b><u>This is a sub heading</u></b></h2>
+    <h2><b><i>This is a sub heading</i></b></h2>
     <h3> This is a smaller heading</h3>
     <h4> This is an even smaller heading</h4>
     <h5> This is a tiny heading</h5>

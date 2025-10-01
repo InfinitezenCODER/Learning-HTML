@@ -13,7 +13,7 @@ Author-InfinitezenCODER
 </head>
 
 <body>
-    <!--This is Paragraph-->
+<!--This is Paragraph-->
     <h1>This is a heading</h1>
     <h2>This is a subheading</h2>
     <h3> This is a smaller heading</h3>
@@ -21,14 +21,13 @@ Author-InfinitezenCODER
     <h5> This is a tiny heading</h5>
     
     
-    <p>     Sample Paragraph</p>
-    <a href="https://www.google.com/">GOOGLE</a>
-    <br>
-    <a href="https://www.facebook.com">FACEBOOK</a>
-    <br>
-    <a href="/Swift.html">Go to swift</a>
-    <br>
-     <a href="/Swift.html">Go to swift</a<img src="https://goyahills.com/wp-content/uploads/2025/03/Ruturaj-Gaikwad-min.jpg" alt="Ruturaj Gaikwad" height="100"/>
+<p>   <b>  Sample Paragraph</b> </p>
+<a href="https://www.google.com/">GOOGLE</a>
+<br>
+<a href="https://www.facebook.com">FACEBOOK</a>
+<br>
+<a href="/Swift.html">Go to swift</a>
+<img src="https://goyahills.com/wp-content/uploads/2025/03/Ruturaj-Gaikwad-min.jpg" alt="Ruturaj Gaikwad" height="100"/>
     <br>
     <b>Chennai Super Kings FAN,</b>
     <B>MAHI & RUTU Fan </B>

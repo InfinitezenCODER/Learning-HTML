@@ -37,6 +37,13 @@ Author-InfinitezenCODER
 <hr>
 <p>H<sub>2</sub>O</p>
 <p>3<sup>2</sup>9</p>
+<pre>
+    Lorem       Epsum Dolor.
+</pre>
+<hr>
+<p>
+    
+</p>
 
 </body>
 </html>

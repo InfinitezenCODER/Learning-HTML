@@ -9,7 +9,7 @@ Author-InfinitezenCODER
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Docos..</title>
+    <titl>MY EXPERIMENTS</titl></title>
 </head>
 <br>
 <body>
@@ -21,6 +21,9 @@ Author-InfinitezenCODER
 <a href="/Experience.html">Experience</a>
 <br>
 <a href="/Control.html">Control</a>   
+<header>
+    
+</header>
 
 </body>
 </html>

@@ -21,9 +21,18 @@ Author-InfinitezenCODER
 <a href="/Experience.html">Experience</a>
 <br>
 <a href="/Control.html">Control</a>   
+
 <header>
-    
+   <h1><b> MY PORTFOLIO </b></h1> 
 </header>
+<main>
+    <section> education: COLLEGE(VSSUT)  SCHOOL(NK NAGAR)</section>
+    <section> Languages: Python,C,HTML</section>
+    <section> Experience: Fresher</section>
+    <article> My Story : "Initialization of Coding in my LIFE."</article>
+    <aside>  This is not content-related.</aside>    
+</main>    
+
 
 </body>
 </html>

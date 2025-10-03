@@ -5,7 +5,9 @@ Author-InfinitezenCODER
 <BR>
 <!DOCTYPE html>
 
-<html lang="en">
+<html lang="en" style="
+ font-style: oblique">
+ 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -30,7 +32,15 @@ Author-InfinitezenCODER
     <section> Languages: Python,C,HTML</section>
     <section> Experience: Fresher</section>
     <article> My Story : "Initialization of Coding in my LIFE."</article>
-    <aside>  This is not content-related.</aside>    
+    <aside>  This is not content-related.</aside> 
+    <div>
+         A Passionate Coder.
+    A Curious Learner.
+    A Future Developer.
+    </div>
+    <div>
+        
+    </div>
 </main>    
 <header>
 <h1><b> MY JEE PREPARATION </b></h1>

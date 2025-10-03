@@ -32,7 +32,20 @@ Author-InfinitezenCODER
     <article> My Story : "Initialization of Coding in my LIFE."</article>
     <aside>  This is not content-related.</aside>    
 </main>    
-
+<header>
+<h1><b> MY JEE PREPARATION </b></h1>
+</header>
+<main>
+    <section> coaching: MOTION ONLINE , PHYSICS WALLAH</section>
+    <small> Favourite Teacher - Gavesh Bhardwaj, Mohit Sir </small> 
+    <img src="https://www.google.com/imgres?q=gb%20sir%20maths&imgurl=https%3A%2F%2Fyt3.ggpht.com%2Fo7I2PDwXhSWf5i4a4pzB72vbW4ym4HvRqaLSYrbFx2a-vNQQkrrvXSSlpMTH_1AdAvITFfonCqQ%3Ds800-c-k-c0x00ffffff-no-rj&imgrefurl=https%3A%2F%2Fwww.speakrj.com%2Faudit%2Freport%2FUCjILZDfCFrqeU1EQrAm_ZPw%2Fyoutube%2Flive&docid=do6yigKhtRNytM&tbnid=uieyUIRaJCCpDM&vet=12ahUKEwj6juyngIiQAxWrZWwGHQQTGKkQM3oECCQQAA..i&w=800&h=800&hcb=2&ved=2ahUKEwj6juyngIiQAxWrZWwGHQQTGKkQM3oECCQQAA" alt="#GB sir" height="150"/>
+    <br>
+    <section> Subjects: PHYSICS,CHEMISTRY,MATHS</section>
+    <small> Favourite Subject - PHYSICS </small>
+    <br>
+    <section> Rank:  AIR 115k , Percentile: 93 </section>
+    <article> My Story : "Never Give Up."</article>
+</main>
 
 </body>
 </html>

@@ -34,6 +34,9 @@ Author-InfinitezenCODER
 <u>MICROSOFT</u>
 <br>
 <i>Bill Gates</i>
+<hr>
+<p>H<sub>2</sub>O</p>
+<p>3<sup>2</sup>9</p>
 
 </body>
 </html>

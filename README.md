@@ -24,7 +24,7 @@ Author-InfinitezenCODER
 <br>
 <a href="/Control.html">Control</a>   
 
-<header>
+<header style=" background-color:rgb(152, 221, 244);">
    <h1><b> MY PORTFOLIO </b></h1> 
 </header>
 <main>
@@ -34,15 +34,18 @@ Author-InfinitezenCODER
     <article> My Story : "Initialization of Coding in my LIFE."</article>
     <aside>  This is not content-related.</aside> 
     <div>
-         A Passionate Coder.
+    A Passionate Coder.
     A Curious Learner.
     A Future Developer.
     </div>
     <div>
-        
+    A Marathon Rider.
+    A Lover.
+    A big Dreamer.
+    A Zlatan Ibrahimovic Fan.
     </div>
 </main>    
-<header>
+<header style=" background-color:rgb(152, 221, 244);">
 <h1><b> MY JEE PREPARATION </b></h1>
 </header>
 <main>

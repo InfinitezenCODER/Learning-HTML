@@ -78,10 +78,14 @@ Author-InfinitezenCODER
      </ul>   
     </ol>
 <table>
+   <caption><b> Percentile in each subject</b> </caption>
+ <thead>
     <tr>
         <th>Subject</th>
         <th>Percentile</th>
     </tr>
+ </thead>
+ <tbody>
     <tr>
         <td>Physics</td>
         <td>93.64</td>
@@ -94,6 +98,7 @@ Author-InfinitezenCODER
         <td>Mathematics</td>
         <td>89.56</td>
     </tr>
+ </tbody>
 </table>
  
 </main>

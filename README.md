@@ -77,6 +77,7 @@ Author-InfinitezenCODER
         <li>VK Jaiswal</li>
      </ul>   
     </ol>
+</main>
 <table>
    <caption><b> Percentile in each subject</b> </caption>
  <thead>
@@ -119,7 +120,19 @@ Author-InfinitezenCODER
 
 </table>
  
-</main>
+<form action="/action.php">
+    <input type="text" placeholder=" Name">
+    <input type="password"placeholder="Password">
+    <input type="email"placeholder="Email">
+    <br>
+    <label for="01">
+    <input type="radio"value="Undergraduate" name="class" id="01">UG
+    <br>
+    <label for="02">
+    <input type="radio"value="Postgraduate" name="class" id="02">PG
+    
+</form>
+
 
 </body>
 </html>

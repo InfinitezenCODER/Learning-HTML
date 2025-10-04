@@ -58,6 +58,27 @@ Author-InfinitezenCODER
     <br>
     <section> Rank:  AIR 115k , Percentile: 93 </section>
     <article> My Story : "Never Give Up."</article>
+<ol>
+     <li>PHYSICS</li>
+       <ul>
+         <li>Class NOTES</li>
+        <li>Rank UP PHYSICS</li>
+        <li>HC VERMA</li>
+       </ul>
+     <li>Mathematics</li>
+        <ul>
+         <li>Class NOTES</li> 
+         <li>Arihant</li>
+         <li>Mathongo</li>
+        </ul>  
+     <li>Chemistry</li>
+     <ul>
+        <li>Class NOTES</li>
+        <li>VK Jaiswal</li>
+     </ul>   
+    </ol>
+
+ 
 </main>
 
 </body>

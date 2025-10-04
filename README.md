@@ -77,7 +77,24 @@ Author-InfinitezenCODER
         <li>VK Jaiswal</li>
      </ul>   
     </ol>
-
+<table>
+    <tr>
+        <th>Subject</th>
+        <th>Percentile</th>
+    </tr>
+    <tr>
+        <td>Physics</td>
+        <td>93.64</td>
+    </tr>
+    <tr>
+        <td>Chemistry</td>
+        <td>90.23</td>
+    </tr>
+    <tr>
+        <td>Mathematics</td>
+        <td>89.56</td>
+    </tr>
+</table>
  
 </main>
 

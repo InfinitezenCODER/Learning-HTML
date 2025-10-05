@@ -136,7 +136,7 @@ Author-InfinitezenCODER
 
 </body>
 </html>
-
+<br> <br> <br> <br>
 <br>
 I am learning Javascript...
 <br>
@@ -155,6 +155,16 @@ Connect JS to HTML as HTML is already connected to Browser.
  
 </script>
 </html>
+
+First.js -
+
+console.log("This is my first  Jvascript Program");
+name="InfinitezenCODER";
+console.log(name);
+x= null;
+console.log(x);
+y=undefined;
+console.log(y);
 
 
 

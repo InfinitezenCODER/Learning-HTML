@@ -158,13 +158,21 @@ Connect JS to HTML as HTML is already connected to Browser.
 
 First.js -
 
-console.log("This is my first  Jvascript Program");
-name="InfinitezenCODER";
+console.log("This is my first  Javascript Program");
+let name="InfinitezenCODER";
 console.log(name);
 x= null;
 console.log(x);
 y=undefined;
 console.log(y);
+{
+let age=19;
+console.log(age);
+}
+{
+let age=20;
+console.log(age);
+}
 
 
 

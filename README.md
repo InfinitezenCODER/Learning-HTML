@@ -201,6 +201,9 @@ const Profile =
 console.log (Profile.Name);
 console.log (Profile ["Experience"]);
 
+// This Part Will Not be Executed.
+/* This Part Will not be Executed. */
+
 
 
 

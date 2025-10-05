@@ -173,6 +173,16 @@ console.log(age);
 let age=20;
 console.log(age);
 }
+const Student=
+{
+fullNmae : "Swastik",
+fan : "Zlatan Ibrahimnovic",
+age : 19,
+};
+console.log(Student.Fan);
+console.log(Student["age"]);
+Student["age"]= Student["age"]+2;
+console.log(Student.age);
 
 
 

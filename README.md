@@ -204,6 +204,22 @@ console.log (Profile ["Experience"]);
 // This Part Will Not be Executed.
 /* This Part Will not be Executed. */
 
+//Arithmatic Operators
+let a = 2;
+let b = 4;
+
+console.log("a+b");
+console.log(a+b);
+console.log("a+b =", a+b);
+console.log("a-b =", a-b);
+console.log("a*b =", a*b);
+console.log("a/b =", a/b);
+console.log("a%b =", a%b);
+console.log("a**b =", a**b);
+console.log("a++=", a++);
+console.log("a=", a);
+console.log("++a=", ++a);
+
 
 
 

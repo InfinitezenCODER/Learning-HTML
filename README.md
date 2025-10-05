@@ -220,6 +220,14 @@ console.log("a++=", a++);
 console.log("a=", a);
 console.log("++a=", ++a);
 
+//Assignment Operators
+let c = 10;
+c+=5;
+console.log("c+=5 =", c);
+c-=5;
+console.log("c-=5 =", c);
+c**=2;
+console.log("c**=2",c);
 
 
 

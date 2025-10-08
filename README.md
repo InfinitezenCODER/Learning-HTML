@@ -51,7 +51,11 @@ Author-InfinitezenCODER
 <main>
     <section> coaching: MOTION ONLINE , PHYSICS WALLAH</section>
     <small> Favourite Teacher - Gavesh Bhardwaj, Mohit Sir </small> 
-    <img src="https://www.google.com/imgres?q=gb%20sir%20maths&imgurl=https%3A%2F%2Fyt3.ggpht.com%2Fo7I2PDwXhSWf5i4a4pzB72vbW4ym4HvRqaLSYrbFx2a-vNQQkrrvXSSlpMTH_1AdAvITFfonCqQ%3Ds800-c-k-c0x00ffffff-no-rj&imgrefurl=https%3A%2F%2Fwww.speakrj.com%2Faudit%2Freport%2FUCjILZDfCFrqeU1EQrAm_ZPw%2Fyoutube%2Flive&docid=do6yigKhtRNytM&tbnid=uieyUIRaJCCpDM&vet=12ahUKEwj6juyngIiQAxWrZWwGHQQTGKkQM3oECCQQAA..i&w=800&h=800&hcb=2&ved=2ahUKEwj6juyngIiQAxWrZWwGHQQTGKkQM3oECCQQAA" alt="#GB sir" height="150"/>
+   <br>
+    <img src="https://dmf76jm51vpov.cloudfront.net/upload/2020/f2080468-f8da-4260-8699-294ffa5509b2.png" alt="#GB sir" height="150"/>
+   <br>
+   <br>
+    <br>
     <br>
     <section> Subjects: PHYSICS,CHEMISTRY,MATHS</section>
     <small> Favourite Subject - PHYSICS </small>
